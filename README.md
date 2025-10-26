@@ -1,16 +1,63 @@
-# React + Vite
+# 🪄 ** Frontend Task**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React + Vite** web application showcasing product listing, authentication, and user profile management using **Zustand** and **React Query**.
+Built with clean code architecture and styled using **Tailwind CSS** and **shadcn/ui**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Live Demo
 
-## React Compiler
+(https://unique-pothos-ab42d3.netlify.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+### 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React
+
+- ⚡ Vite
+
+- 🎨 Tailwind CSS + shadcn/ui
+
+- 🔄 React Query
+
+- 🧠 Zustand
+
+- 🌐 Axios
+
+- 🧩 React Router DOM
+
+---
+
+### ⚙️ Setup Instructions
+
+# 1️⃣ Clone the repository
+
+git clone https://github.com/samah-abu-laymun/frontend-task.git
+cd frontend-task
+
+# 2️⃣ Install dependencies
+
+npm install
+
+# 3️⃣ Start the development server
+
+npm run dev
+
+# 4️⃣ Build for production
+
+npm run build
+
+# 5️⃣ Preview the production build
+
+npm run preview
+
+---
+
+### 🧑‍💻 Author
+
+**Samah Abu Laymun**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samah-abu-laymun/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
